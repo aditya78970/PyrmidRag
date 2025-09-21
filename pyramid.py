@@ -1,5 +1,5 @@
 """
-pyramid_ingest.py
+pyramid.py
 A small, self-contained impl of:
 - 2-page sliding window (char-based; can be swapped to token-based)
 - Knowledge Pyramid: Raw Text -> Chunk Summary -> Category -> Distilled Keywords + embeddings
